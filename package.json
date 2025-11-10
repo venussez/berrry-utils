@@ -7,8 +7,9 @@
   "scripts": {
     "start": "node index.cjs"
   },
-  "engines": {
-    "node": ">=22.0.0"
+"engines": {
+  "node": "22.x"
+}
   },
   "dependencies": {
     "discord.js": "^14.16.0",
